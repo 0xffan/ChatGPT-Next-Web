@@ -1,3 +1,7 @@
+[![Sync Fork](https://github.com/0xffan/ChatGPT-Next-Web/actions/workflows/sync.yml/badge.svg)](https://github.com/0xffan/ChatGPT-Next-Web/actions/workflows/sync.yml)
+
+---
+
 <div align="center">
 <img src="./static/icon.svg" alt="预览"/>
 
